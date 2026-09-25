@@ -1,2 +1,3 @@
-# AirportSeachEngine
-The project was done in my second semester. As I transferred universities, I have lost access to my GitHub account. I am posting my code here
+## Airport Search Engine
+### Tool that allows to search by airport's ID, name, country code and IATA code
+### Also, includes advanced features such as finding highest and lowest elevation airports, finding airports with the lowest IATA code and grouping airports by municipality
